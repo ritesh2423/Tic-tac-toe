@@ -1,0 +1,28 @@
+.square{
+  font-size: 40px;
+  font-weight: 400;
+  color: aqua;
+}
+.board-row{
+  font-size: 40px;
+  font-weight: 400;
+  align-items: center;
+}
+.game{
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
+.game-board{
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
+.game-info{
+  margin: 20px;
+  padding: 20px;
+  align-items: center;
+}
+body{
+  background-color: linear-gradient(to right,rgba(240, 55, 240, 1),rgba(106, 27, 27, 0.133));
+}
